@@ -1,5 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview of the Analysis
+Fast Lending hopes that using machine learning to determine credit risk in loan applicants can ultimately lower their default rates. This deliverable examines credit risk using multiple machine learning modelling techniques and algorithms for Fast Lending's best interest.
 ## Results
 ### Deliverable 1
 #### RandomOverSampler
