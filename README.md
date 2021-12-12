@@ -4,28 +4,28 @@
 ### Deliverable 1
 #### RandomOverSampler
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 #### SMOTE
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 #### ClusterCentroids
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 ### Deliverable 2
 #### SMOTEENN
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 ### Deliverable 3
 #### BalancedRandomForestClassifier
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 #### EasyEnsembleClassifier
 - Accuracy Score
-- Confusion Matrix
-- Imbalanced Classification Report
+- Precision Score
+- Recall Score
 ## Summary
